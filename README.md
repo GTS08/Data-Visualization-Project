@@ -15,4 +15,4 @@ The scope of this project was to find and download the necessary files from a ce
 ## Procedure
 Download and store the necessary files from the website using python and the BeautifulSoup library. Then, extract only the necessary data from these files to a sqllite database. From there, load the data to dataframes, calculate the results and extract them to csv files using the pandas library. Finally, extract the diagrams using the matplotlib library.
 
-- **Note**: Before running the main.py, delete tourist.db file in order to avoid errors due to duplicate entries.
+- **Note**: Before running the main.py, delete tourism.db file in order to avoid errors due to duplicate entries.
