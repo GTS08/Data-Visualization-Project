@@ -1,4 +1,4 @@
-# Statistics Project
+# Data Visualization Project
 This project was part of the Computer Engineering and Informatics Department (CEID) of University of Patras curriculum.
 
 ## Scope
